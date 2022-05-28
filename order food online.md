@@ -1,5 +1,4 @@
 # How to order food in swiggy
-
 Open the Swiggy app or webpage 
 click on Locate Me or enter the location.
 Choose your favorite neighborhood restaurants and select the meal of your choice.
